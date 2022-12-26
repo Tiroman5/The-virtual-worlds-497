@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<actions>
+    <action index="0"
+            command="C:\Windows\SYSTEM32\RUNDLL32.EXE"
+            arguments="shsetup.dll,SHUnattendedSetup"
+            identity="Microsoft-Windows-Shell-Setup, Culture=neutral, Version=10.0.19041.1, PublicKeyToken=31bf3856ad364e35, ProcessorArchitecture=amd64, versionScope=NonSxS"
+            manifestPath="C:\Windows\Winsxs\Manifests\amd64_microsoft-windows-shell-setup_31bf3856ad364e35_10.0.19041.1_none_884be02f88fdb517.manifest"
+            pass="oobeSystem"/>
+</actions>

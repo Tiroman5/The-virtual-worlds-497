@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<actions>
+    <action index="0"
+            command="C:\Windows\SYSTEM32\PNPUNATTEND.EXE"
+            arguments=""
+            identity="Microsoft-Windows-PnpCustomizationsNonWinPE, Culture=neutral, Version=10.0.19041.1, PublicKeyToken=31bf3856ad364e35, ProcessorArchitecture=amd64, versionScope=NonSxS"
+            manifestPath="C:\Windows\Winsxs\Manifests\amd64_microsoft-windows-p..tomizationsnonwinpe_31bf3856ad364e35_10.0.19041.1_none_81bff6e72e94485f.manifest"
+            pass="auditSystem"/>
+</actions>
